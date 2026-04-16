@@ -1,6 +1,6 @@
 # Financial Control System
 
-![Dashboard](./images/dashboard.png)
+![Dashboard](./images/Dashboard.png)
 
 Simple financial control system built with ASP.NET MVC and Microsoft SQL Server for managing cash flow, income, and expenses.
 
